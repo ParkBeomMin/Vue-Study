@@ -21,7 +21,7 @@ Vue.js의 특징
 ![Vue Framework](/assets/component-structure.png)
 출처 : https://zuminternet.github.io/ZUM-Pilot-cms/
 
-- 컴포넌트 기반 방식의 장점
+### 컴포넌트 기반 방식의 장점
     - 코드의 재사용
     - 직관적 파악 가능
 
